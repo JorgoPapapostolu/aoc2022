@@ -15,6 +15,7 @@ console.log(Math.max(...calories));
 }
 // funktion ende
 
+// Test
 
 //aufruf
 elfchen();
