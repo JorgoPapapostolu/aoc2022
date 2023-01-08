@@ -16,7 +16,7 @@ console.log(Math.max(...calories));
 // funktion ende
 
 // Test
-// Stefan bringt mir Sachen bei
+// Stefan bringt mir Sachen 
 
 //aufruf
 elfchen();
