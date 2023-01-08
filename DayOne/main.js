@@ -15,8 +15,5 @@ console.log(Math.max(...calories));
 }
 // funktion ende
 
-// Test
-// Stefan bringt mir Sachen bei 123
-
 //aufruf
 elfchen();
